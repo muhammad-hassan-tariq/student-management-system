@@ -52,3 +52,13 @@ Node.js + Express.js REST API
        | SQL Queries
        ↓
 Microsoft SQL Server
+
+## Screenshots
+
+### Dashboard
+
+![Student Management System Dashboard](screenshots/dashboard.png)
+
+### Edit Student
+
+![Edit Student](screenshots/edit-student.png)
